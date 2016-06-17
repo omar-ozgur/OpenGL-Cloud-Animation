@@ -1,0 +1,12 @@
+# Blender MTL File: 'Pony_Basemesh.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 37.254902
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.581271 0.113885
+Ks 0.050000 0.046244 0.020531
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
